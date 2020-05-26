@@ -40,29 +40,6 @@ img {
   font-size: 2rem;
 }
 
-/* Buttons */
-.btn {
-  padding: 1rem;
-  color: #fff;
-  display: inline-block;
-}
-
-.btn-primary {
-  background: var(--primary-color);
-}
-
-.btn-primary:hover {
-  background: var(--primary-color-hover);
-}
-
-.btn-secondary {
-  background: var(--secondary-color);
-}
-
-.btn-secondary:hover {
-  background: var(--secondary-color-hover);
-}
-
 /* Showcase */
 #showcase {
   margin: 0;
@@ -97,6 +74,42 @@ img {
 
 .lead {
   font-size: 1.3rem;
+}
+
+/* Buttons */
+.btn {
+  padding: 1rem;
+  color: #fff;
+  display: inline-block;
+}
+
+.btn-primary {
+  background: var(--primary-color);
+}
+
+.btn-primary:hover {
+  background: var(--primary-color-hover);
+}
+
+.btn-secondary {
+  background: var(--secondary-color);
+}
+
+.btn-secondary:hover {
+  background: var(--secondary-color-hover);
+}
+
+/* Text colors */
+.text-primary {
+  color: var(--primary-color);
+}
+
+.text-secondary {
+  color: var(--secondary-color);
+}
+
+.text-light {
+  color: var(--light-color);
 }
 
 .mb {
