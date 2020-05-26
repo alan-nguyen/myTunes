@@ -40,6 +40,10 @@ body {
   padding: 0 3rem;
 }
 
+.lead {
+  font-size: 1.3rem;
+}
+
 /* Navigation */
 nav {
   height: 40px;
