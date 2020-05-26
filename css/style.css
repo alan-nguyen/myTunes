@@ -22,6 +22,10 @@ img {
   margin: 0;
 }
 
+.section h3 {
+  font-size: 2rem;
+}
+
 /* Showcase */
 #showcase {
   margin: 0;
