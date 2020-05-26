@@ -87,6 +87,14 @@ img {
   font-size: 1.3rem;
 }
 
+.mb {
+  margin-bottom: 1rem;
+}
+
+.mt {
+  margin-top: 1rem;
+}
+
 /* Navigation */
 nav {
   height: 40px;
