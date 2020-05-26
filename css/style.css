@@ -12,6 +12,11 @@ img {
   width: 100%;
 }
 
+/* Section */
+.section {
+  padding: 2rem 0;
+}
+
 /* Showcase */
 #showcase {
   margin: 0;
