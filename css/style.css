@@ -19,6 +19,19 @@ body {
   overflow-y: hidden;
 }
 
+#showcase .container {
+  margin-top: 25vh;
+}
+
+#showcase h1 {
+  font-size: 4rem;
+  margin-bottom: 0;
+}
+
+#showcase h2 {
+  font-size: 2rem;
+}
+
 /* Utilities classes */
 .container {
   max-width: 1180px;
