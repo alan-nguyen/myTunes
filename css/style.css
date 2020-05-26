@@ -77,6 +77,10 @@ nav a#openup {
 }
 
 @media screen and (max-width: 580px) {
+  .hide-on-small {
+    display: none;
+  }
+
   h1 {
     font-size: 2.8em;
   }
