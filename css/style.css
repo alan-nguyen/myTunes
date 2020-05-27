@@ -76,6 +76,16 @@ section#entertainment {
   font-size: 2rem;
 }
 
+/* Footer */
+footer .footer-cols {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: repeat(4, 1fr);
+  padding: 2rem;
+  text-align: left;
+  font-size: 14px;
+}
+
 /* Utilities classes */
 .container {
   max-width: 1180px;
