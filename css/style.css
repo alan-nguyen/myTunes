@@ -286,4 +286,8 @@ nav a#openup {
   .gift-cards {
     grid-template-columns: 1fr;
   }
+
+  footer .footer-cols {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
