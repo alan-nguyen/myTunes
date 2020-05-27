@@ -86,6 +86,10 @@ footer .footer-cols {
   font-size: 14px;
 }
 
+footer .footer-cols ul {
+  list-style: none;
+}
+
 /* Utilities classes */
 .container {
   max-width: 1180px;
